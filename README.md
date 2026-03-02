@@ -47,9 +47,9 @@ your-project/
 
 On this GitHub page, click the green **Code** button → **Download ZIP**, then extract it on your computer.
 
-**2. Upload the files in a Claude Chat conversation:**
+**2. Upload the files in Claude Chat:**
 
-Go to [claude.ai](https://claude.ai), start a new chat, and attach the files you need using the paperclip icon:
+Upload the files to Claude > Settings > Customize > Skills: [[claude.ai]([https://claude.ai](https://claude.ai/customize/skills)),:](https://claude.ai/customize/skills)
 
 - **Minimum:** `.claude/skills/webflow-brand-voice.md`
 - **Recommended:** add `references/tone-by-surface.md` and `references/inclusive-language.md` for fuller guidance
